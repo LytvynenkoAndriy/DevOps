@@ -1,7 +1,4 @@
 # Defining the function
-
-"""
-
 def add(arg1, arg2):
     total = arg1 + arg2
     return total
@@ -15,8 +12,6 @@ def adder(arg1, arg2):
 adder(10, 50)
 print(adder(10,40))
 
-"""
-"""
 def summ(arg):
     x = 0
     for i in arg:
@@ -27,18 +22,14 @@ print(summ([1, 2, 3, 4, 5]))
 # print(out)
 
 # summ([10, 20], [30, 40]) # in function specified only 1 argument but 2 were given
-"""
 
-"""
 # Default argument
-
 def greetings(MSG="Morning"):
     print(f"Good {MSG}")
     print("Welcome to function.")
 
 greetings("")
 greetings("Evening")
-"""
 
 # Keyword arguments
 def vac_feedback(vac, efficacy):
