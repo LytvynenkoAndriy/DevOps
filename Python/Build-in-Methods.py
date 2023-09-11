@@ -1,9 +1,8 @@
 # String Build in Methods/Functions
-# message = "corona vaccine is ready to use, most of them are more than 90% effective."
-# print(message)
-# print(message.capitalize)
+message = "corona vaccine is ready to use, most of them are more than 90% effective."
+print(message)
+print(message.capitalize)
 
-"""
 Message = message.capitalize()
 print(Message)
 
@@ -44,7 +43,7 @@ mountains.pop()
 print(mountains)
 mountains.pop(5)
 print(mountains)
-"""
+
 
 cntr_emp1 = {"Name":"Santa", "Skill":"Blockchain", "Code":1024}
 print(cntr_emp1.keys())
