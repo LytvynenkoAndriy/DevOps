@@ -1,5 +1,4 @@
 # Break Statement
-"""
 for i in "DevOps":
     print (i)
     if i == "O":
@@ -17,9 +16,8 @@ for i in "DevOps":
     print(f"Value of i is {i}")
 
 print("Out of loop")
-"""
-# Second statement
 
+# Second statement
 import random
 VACCINES = ["Moderna", "Pfizer", "Sputnik", "AstraZeneka", "Covaxine", "CoronaVac"]
 
