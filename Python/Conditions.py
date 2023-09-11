@@ -1,5 +1,4 @@
 # IF Condition
-"""
 x = 21
 
 if (x < 30):
@@ -7,9 +6,8 @@ if (x < 30):
     print("x is less than 30")
 
 print("Rest of the code.")
-"""
+
 # IF/ELSE Condition
-"""
 x = 31
 
 if (x < 30):
@@ -18,10 +16,8 @@ if (x < 30):
 else:
     print("Inside Else block")
     print("x is greater than 30")
-"""
 
 # If/Elif/Else Condition
-"""
 x = 40
 
 if (x > 40):
@@ -32,7 +28,7 @@ elif (x == 40):
     print("x is equal to 40")
 else:
     print ("x is less than 40")
-"""
+
 
 print("This IT organization has various skill sets.")
 print("Find out your match.")
